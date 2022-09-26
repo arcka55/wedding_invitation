@@ -11,4 +11,4 @@ Webiste Wedding Invitation dibangun menggunakan wordpress 6.2
 Wedding Invitation (github repo) :
 1. masuk ke folder htdocs (xampp) lalu buka git bash, masukkan code "git clone https://github.com/arcka55/wedding_invitation.git"
 2. setelah repo berhasil di remote, masukkan atau import database (nama file: wedding_invitation_db) bisa di download di github repo : <a href="./wedding_invitation_db.sql" download>wedding_invitation_db.sql</a>
-3. jalankan masuk ke browser "localhost/wedding_invitation_db"
+3. jalankan masuk ke browser "localhost/wedding_invitation"
